@@ -23,8 +23,8 @@ Once you've got these variables you need to change these variables in the _sync.
 * **AWS_REGION**
 
 Lastly:
-* **the directories that need to be synced need to be added to the **folders_to_sync array****
-* **the specific files that need to be synced need to be added to the **file_to_sync array****
+* the directories that need to be synced need to be added to the **folders_to_sync array**
+* the specific files that need to be synced need to be added to the **file_to_sync array**
 
 
 
