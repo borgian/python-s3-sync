@@ -8,8 +8,8 @@ These instructions will help you setup all the variables needed to start synchin
 
 ### Prerequisites
 ```
-* **boto**
-* **boto3**
+boto
+boto3
 ```
 
 
